@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ContosoUniversity
+build_property.RootNamespace = ContosoUniversity
+build_property.ProjectDir = /home/kusaka/Documents/project/dotnetcore/ContosoUniversity/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/kusaka/Documents/project/dotnetcore/ContosoUniversity
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Instructors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Instructors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Instructors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Instructors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Instructors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/ContosoUniversity/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f332879bh9

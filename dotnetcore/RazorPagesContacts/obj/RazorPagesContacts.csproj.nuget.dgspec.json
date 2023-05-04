@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/RazorPagesContacts.csproj": {}
+  },
+  "projects": {
+    "/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/RazorPagesContacts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/RazorPagesContacts.csproj",
+        "projectName": "RazorPagesContacts",
+        "projectPath": "/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/RazorPagesContacts.csproj",
+        "packagesPath": "/home/kusaka/.nuget/packages/",
+        "outputPath": "/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kusaka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

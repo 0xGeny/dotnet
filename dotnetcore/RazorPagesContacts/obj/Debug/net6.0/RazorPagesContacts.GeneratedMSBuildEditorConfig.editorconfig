@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPagesContacts
+build_property.RootNamespace = RazorPagesContacts
+build_property.ProjectDir = /home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/kusaka/Documents/project/dotnetcore/RazorPagesContacts
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/kusaka/Documents/project/dotnetcore/RazorPagesContacts/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5lm9awnrgt
