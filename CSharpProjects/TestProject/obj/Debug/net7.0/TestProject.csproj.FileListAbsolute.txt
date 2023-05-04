@@ -1,0 +1,15 @@
+/home/kusaka/Documents/project/CSharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/kusaka/Documents/project/CSharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/kusaka/Documents/project/CSharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/kusaka/Documents/project/CSharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/kusaka/Documents/project/CSharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/kusaka/Documents/project/CSharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
